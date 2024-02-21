@@ -8,18 +8,7 @@ In src/test/java i have created two pakages:
 1.pages
 2.TestCases
 Under Pages pakage create BasePage.java class which consist code regarding setup browser and launch the website by providing URL
-package pages;
-
-import java.io.IOException;
-import java.time.Duration;
-
-import org.openqa.selenium.Alert;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.BeforeClass;
+package pages.
 
 public class BasePage {
 	public WebDriver driver;
