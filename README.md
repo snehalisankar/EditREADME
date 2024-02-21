@@ -1,6 +1,5 @@
 # EditREADME
-The framework uses:
-1.Java
+The framework uses:1.Java
 2.Selenium
 3.TestNG
 
