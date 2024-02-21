@@ -36,6 +36,17 @@ public class BasePage {
 
 }
 
+Then create TestCase pakage. In that pakage create EntratatestCase.java file where we have to write our actuall test cases.
+This EntratatestCase.java file includes 4 test cases.
+1. validating "watchdemo" button
+2.  validating the base camp tab and then by clicking on "RegisterNow" tab it will fill up the personal information form  by provinding addtional details line above test case and click on "Next" button.
+3.  validating the the resource tab
+4.  Entratalogovalidation
+
+Note: 1) used driver version is 123
+      2) drivers exe file are loacated in src/driver folder.
+      3) create testng.xml file in testrunner folder
+
 
 
 
